@@ -1,0 +1,32 @@
+.branco{
+	color: white;
+}
+.azul{
+	color: orange;
+}
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+.br{
+	border-right: 1px solid #e5e5e5;
+}
+.bb{
+	border-bottom: 1px solid #e5e5e5;
+}
+img.img-gal{
+	width: 350px;
+	height: 256px;
+}
+.verde{
+	background: #42c705;
+}
+.vermelho{
+	background: #ff0000;
+}
+.amarelo{
+	background: #ffff00;
+}
+.laranja{
+	background: orange;
+}
